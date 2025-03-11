@@ -5,13 +5,13 @@ import plotly.express as px
 
 # ✅ Fix: Set page config as the first Streamlit command
 st.set_page_config(layout="wide", page_title="Supplier Risk Dashboard")
-"""
+
 # Connect to database
 conn = sqlite3.connect("data/supplier_risk.db")
 df = pd.read_sql("SELECT * FROM supplier_risk_assessment", conn)
 conn.close()
 print("database Connected")
-"""
+
 # Risk Score Calculation
 df["risk_score"] = (df["faults_last_18m"] * 0.4) + ((10 - df["financial_score"]) * 0.3) + ((5 - df["risk_rank"]) * 0.3)
 
@@ -79,5 +79,5 @@ st.markdown("---")
 # **Table View: Filtered Suppliers**
 st.markdown(f"### {title_suffix} - {selected_country if selected_country != 'All' else 'All Countries'} (Top 10)")
 st.dataframe(filtered_df.sort_values(by="risk_score", ascending=False).head(10))
-"""
+
 st.success("✅ Dashboard Loaded Successfully!")
