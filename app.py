@@ -51,7 +51,7 @@ num_countries = df["country"].nunique()
 # **KPI Metrics**
 st.title("📊 Supplier Risk Dashboard")
 
-st.markdown("### Key Metrics (Click to Filter)")
+st.markdown("### Key Metrics")
 col1, col2 = st.columns([1, 1])
 
 if col1.button(f"Total Suppliers ({total_suppliers})"):
