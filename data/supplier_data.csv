@@ -1,0 +1,51 @@
+supplier_id,part_numbers,business_level,backup_suppliers,country,faults_last_18m,shipping_plants,inventory_capacity,quality_rating,financial_score
+1,"P885,P957,P318,P558,P150",3,5,USA,9,"Plant 2,Plant 4,Plant 5",7654,0.84,9.06
+2,"P690,P878,P269,P252",4,2,Mexico,12,Plant 1,7380,0.68,4.34
+3,"P516,P153,P698",1,3,Mexico,18,"Plant 1,Plant 1,Plant 3",1736,0.74,3.5
+4,"P452,P461,P617,P415,P175",3,3,China,6,Plant 3,3796,0.21,6.45
+5,P600,3,0,Mexico,16,"Plant 3,Plant 5,Plant 1",798,0.54,6.69
+6,"P654,P493,P833",4,2,China,19,"Plant 5,Plant 5,Plant 3",4837,0.7,8.64
+7,"P567,P818",1,4,USA,3,"Plant 2,Plant 4",954,0.23,2.3
+8,"P862,P487",1,2,India,4,"Plant 2,Plant 2,Plant 2",8264,0.17,4.99
+9,"P963,P125,P429,P146",3,4,India,6,Plant 5,5955,0.98,5.72
+10,"P738,P120,P178,P533",2,0,India,12,"Plant 3,Plant 5,Plant 2",7492,0.52,7.69
+11,"P292,P123",3,1,Mexico,14,"Plant 1,Plant 1,Plant 1",6628,0.26,0.44
+12,"P460,P633,P753,P828",3,3,USA,10,"Plant 5,Plant 3",5349,1.0,9.95
+13,"P683,P193,P420,P979",3,0,Mexico,3,"Plant 2,Plant 2,Plant 2",5272,0.97,4.7
+14,"P257,P783,P785,P182",3,3,Mexico,12,"Plant 2,Plant 5,Plant 5",1807,0.56,2.8
+15,"P488,P329,P552",4,5,USA,6,"Plant 4,Plant 3,Plant 4",5891,0.88,8.83
+16,"P113,P271,P582,P965",1,1,USA,18,Plant 5,5635,0.19,7.48
+17,"P815,P853,P173",4,1,USA,1,"Plant 4,Plant 3",5031,0.28,9.53
+18,"P591,P493,P677,P868,P643",4,0,USA,9,Plant 4,3610,0.7,3.31
+19,"P779,P476,P964",4,1,India,12,"Plant 4,Plant 5,Plant 5",302,0.85,5.53
+20,"P818,P166",3,4,Germany,20,Plant 2,4318,0.86,5.72
+21,"P591,P207,P750,P383,P289",2,1,Germany,5,"Plant 3,Plant 3,Plant 4",9058,0.4,9.8
+22,"P363,P746,P379",1,3,USA,11,"Plant 1,Plant 3",4489,0.89,0.75
+23,"P829,P741,P920,P881,P676",2,3,Germany,11,"Plant 1,Plant 4",2427,0.85,3.06
+24,"P786,P566",4,3,Germany,19,Plant 1,8104,0.94,1.91
+25,"P980,P491,P479,P899,P245",4,3,USA,10,Plant 5,3031,0.79,2.68
+26,"P169,P988,P277,P113",2,4,Germany,6,Plant 5,7877,0.67,4.85
+27,"P397,P540,P668",2,2,Mexico,0,"Plant 1,Plant 5",297,0.58,3.73
+28,P763,2,5,China,0,"Plant 5,Plant 5,Plant 5",7225,0.37,3.95
+29,"P299,P173,P832",4,0,China,19,"Plant 4,Plant 4,Plant 3",2030,0.94,8.44
+30,"P397,P440,P486,P516",4,3,USA,12,"Plant 1,Plant 3",6387,0.97,9.3
+31,"P637,P775",1,1,India,8,Plant 2,8900,0.28,0.7
+32,"P520,P183,P105,P730",1,3,USA,2,Plant 5,9439,0.31,2.09
+33,"P345,P167,P437,P949,P243",4,1,India,6,"Plant 2,Plant 5",4382,0.49,6.71
+34,"P530,P432,P774,P733,P392",2,5,China,5,"Plant 2,Plant 4",2611,0.45,3.59
+35,"P421,P448",2,5,USA,7,"Plant 3,Plant 5",759,0.99,2.54
+36,"P977,P757",1,5,Mexico,8,"Plant 1,Plant 1,Plant 5",2911,0.18,2.95
+37,"P735,P818,P721,P703,P242",4,1,Germany,4,"Plant 3,Plant 1,Plant 3",7198,0.02,3.23
+38,"P739,P480",1,3,India,0,"Plant 5,Plant 4,Plant 3",6646,0.49,8.49
+39,"P957,P822",1,5,Germany,18,"Plant 3,Plant 4,Plant 4",9661,0.18,1.37
+40,"P246,P816,P299,P669,P926",3,4,Germany,9,Plant 1,2086,0.37,7.09
+41,"P233,P129",3,1,USA,11,"Plant 5,Plant 4",8438,0.74,5.53
+42,"P452,P714,P842,P532,P210",3,1,Germany,14,Plant 4,3011,0.72,2.97
+43,"P275,P594",2,3,Mexico,8,"Plant 2,Plant 5",1834,0.31,4.2
+44,"P591,P751,P798,P301,P630",4,1,Germany,19,"Plant 1,Plant 4",1943,0.54,2.56
+45,"P134,P853,P310,P373",4,1,USA,16,"Plant 1,Plant 2",8780,0.51,6.12
+46,P639,4,5,Mexico,16,"Plant 5,Plant 4",3076,0.64,0.82
+47,"P566,P240,P821,P130,P920",4,3,China,19,Plant 2,2059,0.25,0.05
+48,P106,3,5,Germany,11,"Plant 4,Plant 5",5859,0.59,6.28
+49,"P321,P285,P613,P915,P289",2,5,USA,6,Plant 3,6794,0.98,1.94
+50,P339,2,3,China,1,"Plant 2,Plant 2",2485,0.49,0.71

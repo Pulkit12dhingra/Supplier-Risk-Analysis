@@ -1,0 +1,23 @@
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Database
+sqlite3
+
+# Machine Learning Model
+scikit-learn
+xgboost  # Optional, if you want to use XGBoost instead of RandomForest
+
+# NLP for Sentiment Analysis
+nltk
+vaderSentiment
+
+# Visualization
+matplotlib
+plotly
+seaborn
+
+# Web Framework & Dashboard
+streamlit

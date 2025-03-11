@@ -1,0 +1,201 @@
+review_id,part_number,review_text,sentiment_score
+1,P398,Supplier is unreliable.,0.5
+2,P451,Supplier is unreliable.,0.5
+3,P630,Perfect! Will buy again.,0.8057000000000001
+4,P321,"Shipping took too long, but good quality.",0.79635
+5,P513,Great service and prompt delivery.,0.81245
+6,P147,Great service and prompt delivery.,0.81245
+7,P630,Perfect! Will buy again.,0.8057000000000001
+8,P510,"Terrible experience, defective parts!",0.12880000000000003
+9,P172,"Terrible experience, defective parts!",0.12880000000000003
+10,P447,Great service and prompt delivery.,0.81245
+11,P745,Great service and prompt delivery.,0.81245
+12,P153,Supplier is unreliable.,0.5
+13,P741,"Shipping took too long, but good quality.",0.79635
+14,P420,"Excellent quality, very satisfied!",0.89775
+15,P701,"Terrible experience, defective parts!",0.12880000000000003
+16,P896,Great service and prompt delivery.,0.81245
+17,P135,Supplier is unreliable.,0.5
+18,P142,Mediocre at best.,0.81845
+19,P936,Supplier is unreliable.,0.5
+20,P677,"Terrible experience, defective parts!",0.12880000000000003
+21,P534,"Terrible experience, defective parts!",0.12880000000000003
+22,P299,Supplier is unreliable.,0.5
+23,P233,"Excellent quality, very satisfied!",0.89775
+24,P535,Perfect! Will buy again.,0.8057000000000001
+25,P380,"Terrible experience, defective parts!",0.12880000000000003
+26,P802,Supplier is unreliable.,0.5
+27,P206,Great service and prompt delivery.,0.81245
+28,P242,Supplier is unreliable.,0.5
+29,P942,"Shipping took too long, but good quality.",0.79635
+30,P725,Perfect! Will buy again.,0.8057000000000001
+31,P432,Mediocre at best.,0.81845
+32,P219,"Excellent quality, very satisfied!",0.89775
+33,P449,Mediocre at best.,0.81845
+34,P981,Perfect! Will buy again.,0.8057000000000001
+35,P896,Perfect! Will buy again.,0.8057000000000001
+36,P270,Perfect! Will buy again.,0.8057000000000001
+37,P760,Mediocre at best.,0.81845
+38,P996,Great service and prompt delivery.,0.81245
+39,P919,Perfect! Will buy again.,0.8057000000000001
+40,P721,Supplier is unreliable.,0.5
+41,P574,Mediocre at best.,0.81845
+42,P370,Perfect! Will buy again.,0.8057000000000001
+43,P547,Supplier is unreliable.,0.5
+44,P447,Great service and prompt delivery.,0.81245
+45,P673,"Shipping took too long, but good quality.",0.79635
+46,P849,Great service and prompt delivery.,0.81245
+47,P508,Perfect! Will buy again.,0.8057000000000001
+48,P235,Mediocre at best.,0.81845
+49,P146,"Terrible experience, defective parts!",0.12880000000000003
+50,P337,Perfect! Will buy again.,0.8057000000000001
+51,P174,"Terrible experience, defective parts!",0.12880000000000003
+52,P532,Supplier is unreliable.,0.5
+53,P216,"Shipping took too long, but good quality.",0.79635
+54,P281,"Excellent quality, very satisfied!",0.89775
+55,P829,Great service and prompt delivery.,0.81245
+56,P920,"Shipping took too long, but good quality.",0.79635
+57,P346,Perfect! Will buy again.,0.8057000000000001
+58,P852,"Terrible experience, defective parts!",0.12880000000000003
+59,P584,Great service and prompt delivery.,0.81245
+60,P812,"Terrible experience, defective parts!",0.12880000000000003
+61,P566,Mediocre at best.,0.81845
+62,P431,"Terrible experience, defective parts!",0.12880000000000003
+63,P390,Mediocre at best.,0.81845
+64,P611,Supplier is unreliable.,0.5
+65,P679,Great service and prompt delivery.,0.81245
+66,P491,Great service and prompt delivery.,0.81245
+67,P729,"Excellent quality, very satisfied!",0.89775
+68,P886,Perfect! Will buy again.,0.8057000000000001
+69,P833,Mediocre at best.,0.81845
+70,P542,"Excellent quality, very satisfied!",0.89775
+71,P420,"Terrible experience, defective parts!",0.12880000000000003
+72,P687,"Terrible experience, defective parts!",0.12880000000000003
+73,P533,"Excellent quality, very satisfied!",0.89775
+74,P744,Great service and prompt delivery.,0.81245
+75,P368,"Terrible experience, defective parts!",0.12880000000000003
+76,P560,Supplier is unreliable.,0.5
+77,P526,Supplier is unreliable.,0.5
+78,P408,"Excellent quality, very satisfied!",0.89775
+79,P725,Mediocre at best.,0.81845
+80,P428,Mediocre at best.,0.81845
+81,P201,"Excellent quality, very satisfied!",0.89775
+82,P573,Mediocre at best.,0.81845
+83,P814,Great service and prompt delivery.,0.81245
+84,P803,Great service and prompt delivery.,0.81245
+85,P339,Mediocre at best.,0.81845
+86,P313,Supplier is unreliable.,0.5
+87,P500,Mediocre at best.,0.81845
+88,P784,Great service and prompt delivery.,0.81245
+89,P237,"Shipping took too long, but good quality.",0.79635
+90,P264,Perfect! Will buy again.,0.8057000000000001
+91,P792,"Terrible experience, defective parts!",0.12880000000000003
+92,P332,"Shipping took too long, but good quality.",0.79635
+93,P895,Mediocre at best.,0.81845
+94,P357,Supplier is unreliable.,0.5
+95,P553,"Excellent quality, very satisfied!",0.89775
+96,P272,Mediocre at best.,0.81845
+97,P533,Supplier is unreliable.,0.5
+98,P290,Perfect! Will buy again.,0.8057000000000001
+99,P613,Mediocre at best.,0.81845
+100,P566,Great service and prompt delivery.,0.81245
+101,P184,"Excellent quality, very satisfied!",0.89775
+102,P696,Supplier is unreliable.,0.5
+103,P805,Supplier is unreliable.,0.5
+104,P400,Supplier is unreliable.,0.5
+105,P624,Perfect! Will buy again.,0.8057000000000001
+106,P186,Mediocre at best.,0.81845
+107,P965,Perfect! Will buy again.,0.8057000000000001
+108,P374,"Terrible experience, defective parts!",0.12880000000000003
+109,P905,"Terrible experience, defective parts!",0.12880000000000003
+110,P760,Mediocre at best.,0.81845
+111,P738,Great service and prompt delivery.,0.81245
+112,P257,Perfect! Will buy again.,0.8057000000000001
+113,P799,"Excellent quality, very satisfied!",0.89775
+114,P285,Supplier is unreliable.,0.5
+115,P443,Supplier is unreliable.,0.5
+116,P233,Mediocre at best.,0.81845
+117,P533,Great service and prompt delivery.,0.81245
+118,P623,"Terrible experience, defective parts!",0.12880000000000003
+119,P289,"Terrible experience, defective parts!",0.12880000000000003
+120,P648,Supplier is unreliable.,0.5
+121,P846,Mediocre at best.,0.81845
+122,P753,Perfect! Will buy again.,0.8057000000000001
+123,P219,"Terrible experience, defective parts!",0.12880000000000003
+124,P363,Perfect! Will buy again.,0.8057000000000001
+125,P325,Great service and prompt delivery.,0.81245
+126,P638,"Terrible experience, defective parts!",0.12880000000000003
+127,P397,"Terrible experience, defective parts!",0.12880000000000003
+128,P920,"Shipping took too long, but good quality.",0.79635
+129,P708,"Terrible experience, defective parts!",0.12880000000000003
+130,P437,"Excellent quality, very satisfied!",0.89775
+131,P702,Mediocre at best.,0.81845
+132,P999,Mediocre at best.,0.81845
+133,P647,Perfect! Will buy again.,0.8057000000000001
+134,P705,Great service and prompt delivery.,0.81245
+135,P732,"Terrible experience, defective parts!",0.12880000000000003
+136,P721,"Excellent quality, very satisfied!",0.89775
+137,P647,Perfect! Will buy again.,0.8057000000000001
+138,P756,"Shipping took too long, but good quality.",0.79635
+139,P905,Perfect! Will buy again.,0.8057000000000001
+140,P585,Perfect! Will buy again.,0.8057000000000001
+141,P592,"Terrible experience, defective parts!",0.12880000000000003
+142,P329,"Shipping took too long, but good quality.",0.79635
+143,P982,Perfect! Will buy again.,0.8057000000000001
+144,P391,"Excellent quality, very satisfied!",0.89775
+145,P891,"Excellent quality, very satisfied!",0.89775
+146,P233,Mediocre at best.,0.81845
+147,P938,"Shipping took too long, but good quality.",0.79635
+148,P338,"Shipping took too long, but good quality.",0.79635
+149,P111,Mediocre at best.,0.81845
+150,P112,Perfect! Will buy again.,0.8057000000000001
+151,P822,"Shipping took too long, but good quality.",0.79635
+152,P416,"Excellent quality, very satisfied!",0.89775
+153,P806,"Excellent quality, very satisfied!",0.89775
+154,P918,"Terrible experience, defective parts!",0.12880000000000003
+155,P167,"Shipping took too long, but good quality.",0.79635
+156,P916,Perfect! Will buy again.,0.8057000000000001
+157,P490,Mediocre at best.,0.81845
+158,P337,Mediocre at best.,0.81845
+159,P488,Perfect! Will buy again.,0.8057000000000001
+160,P958,Great service and prompt delivery.,0.81245
+161,P936,Supplier is unreliable.,0.5
+162,P964,"Terrible experience, defective parts!",0.12880000000000003
+163,P656,Mediocre at best.,0.81845
+164,P665,"Shipping took too long, but good quality.",0.79635
+165,P527,"Terrible experience, defective parts!",0.12880000000000003
+166,P328,"Shipping took too long, but good quality.",0.79635
+167,P231,Great service and prompt delivery.,0.81245
+168,P963,"Excellent quality, very satisfied!",0.89775
+169,P693,"Terrible experience, defective parts!",0.12880000000000003
+170,P365,Mediocre at best.,0.81845
+171,P502,"Terrible experience, defective parts!",0.12880000000000003
+172,P224,"Terrible experience, defective parts!",0.12880000000000003
+173,P502,"Terrible experience, defective parts!",0.12880000000000003
+174,P546,Supplier is unreliable.,0.5
+175,P557,"Terrible experience, defective parts!",0.12880000000000003
+176,P475,"Shipping took too long, but good quality.",0.79635
+177,P971,"Excellent quality, very satisfied!",0.89775
+178,P929,Great service and prompt delivery.,0.81245
+179,P883,Perfect! Will buy again.,0.8057000000000001
+180,P867,"Terrible experience, defective parts!",0.12880000000000003
+181,P947,Mediocre at best.,0.81845
+182,P101,"Terrible experience, defective parts!",0.12880000000000003
+183,P409,Mediocre at best.,0.81845
+184,P898,"Shipping took too long, but good quality.",0.79635
+185,P592,Mediocre at best.,0.81845
+186,P934,Perfect! Will buy again.,0.8057000000000001
+187,P880,"Excellent quality, very satisfied!",0.89775
+188,P724,Mediocre at best.,0.81845
+189,P622,Mediocre at best.,0.81845
+190,P885,"Excellent quality, very satisfied!",0.89775
+191,P332,Perfect! Will buy again.,0.8057000000000001
+192,P731,"Terrible experience, defective parts!",0.12880000000000003
+193,P586,Mediocre at best.,0.81845
+194,P917,"Excellent quality, very satisfied!",0.89775
+195,P913,"Shipping took too long, but good quality.",0.79635
+196,P408,"Excellent quality, very satisfied!",0.89775
+197,P425,"Shipping took too long, but good quality.",0.79635
+198,P971,Perfect! Will buy again.,0.8057000000000001
+199,P724,"Terrible experience, defective parts!",0.12880000000000003
+200,P915,"Excellent quality, very satisfied!",0.89775

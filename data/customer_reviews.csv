@@ -1,0 +1,201 @@
+review_id,part_number,review_text
+1,P398,Supplier is unreliable.
+2,P451,Supplier is unreliable.
+3,P630,Perfect! Will buy again.
+4,P321,"Shipping took too long, but good quality."
+5,P513,Great service and prompt delivery.
+6,P147,Great service and prompt delivery.
+7,P630,Perfect! Will buy again.
+8,P510,"Terrible experience, defective parts!"
+9,P172,"Terrible experience, defective parts!"
+10,P447,Great service and prompt delivery.
+11,P745,Great service and prompt delivery.
+12,P153,Supplier is unreliable.
+13,P741,"Shipping took too long, but good quality."
+14,P420,"Excellent quality, very satisfied!"
+15,P701,"Terrible experience, defective parts!"
+16,P896,Great service and prompt delivery.
+17,P135,Supplier is unreliable.
+18,P142,Mediocre at best.
+19,P936,Supplier is unreliable.
+20,P677,"Terrible experience, defective parts!"
+21,P534,"Terrible experience, defective parts!"
+22,P299,Supplier is unreliable.
+23,P233,"Excellent quality, very satisfied!"
+24,P535,Perfect! Will buy again.
+25,P380,"Terrible experience, defective parts!"
+26,P802,Supplier is unreliable.
+27,P206,Great service and prompt delivery.
+28,P242,Supplier is unreliable.
+29,P942,"Shipping took too long, but good quality."
+30,P725,Perfect! Will buy again.
+31,P432,Mediocre at best.
+32,P219,"Excellent quality, very satisfied!"
+33,P449,Mediocre at best.
+34,P981,Perfect! Will buy again.
+35,P896,Perfect! Will buy again.
+36,P270,Perfect! Will buy again.
+37,P760,Mediocre at best.
+38,P996,Great service and prompt delivery.
+39,P919,Perfect! Will buy again.
+40,P721,Supplier is unreliable.
+41,P574,Mediocre at best.
+42,P370,Perfect! Will buy again.
+43,P547,Supplier is unreliable.
+44,P447,Great service and prompt delivery.
+45,P673,"Shipping took too long, but good quality."
+46,P849,Great service and prompt delivery.
+47,P508,Perfect! Will buy again.
+48,P235,Mediocre at best.
+49,P146,"Terrible experience, defective parts!"
+50,P337,Perfect! Will buy again.
+51,P174,"Terrible experience, defective parts!"
+52,P532,Supplier is unreliable.
+53,P216,"Shipping took too long, but good quality."
+54,P281,"Excellent quality, very satisfied!"
+55,P829,Great service and prompt delivery.
+56,P920,"Shipping took too long, but good quality."
+57,P346,Perfect! Will buy again.
+58,P852,"Terrible experience, defective parts!"
+59,P584,Great service and prompt delivery.
+60,P812,"Terrible experience, defective parts!"
+61,P566,Mediocre at best.
+62,P431,"Terrible experience, defective parts!"
+63,P390,Mediocre at best.
+64,P611,Supplier is unreliable.
+65,P679,Great service and prompt delivery.
+66,P491,Great service and prompt delivery.
+67,P729,"Excellent quality, very satisfied!"
+68,P886,Perfect! Will buy again.
+69,P833,Mediocre at best.
+70,P542,"Excellent quality, very satisfied!"
+71,P420,"Terrible experience, defective parts!"
+72,P687,"Terrible experience, defective parts!"
+73,P533,"Excellent quality, very satisfied!"
+74,P744,Great service and prompt delivery.
+75,P368,"Terrible experience, defective parts!"
+76,P560,Supplier is unreliable.
+77,P526,Supplier is unreliable.
+78,P408,"Excellent quality, very satisfied!"
+79,P725,Mediocre at best.
+80,P428,Mediocre at best.
+81,P201,"Excellent quality, very satisfied!"
+82,P573,Mediocre at best.
+83,P814,Great service and prompt delivery.
+84,P803,Great service and prompt delivery.
+85,P339,Mediocre at best.
+86,P313,Supplier is unreliable.
+87,P500,Mediocre at best.
+88,P784,Great service and prompt delivery.
+89,P237,"Shipping took too long, but good quality."
+90,P264,Perfect! Will buy again.
+91,P792,"Terrible experience, defective parts!"
+92,P332,"Shipping took too long, but good quality."
+93,P895,Mediocre at best.
+94,P357,Supplier is unreliable.
+95,P553,"Excellent quality, very satisfied!"
+96,P272,Mediocre at best.
+97,P533,Supplier is unreliable.
+98,P290,Perfect! Will buy again.
+99,P613,Mediocre at best.
+100,P566,Great service and prompt delivery.
+101,P184,"Excellent quality, very satisfied!"
+102,P696,Supplier is unreliable.
+103,P805,Supplier is unreliable.
+104,P400,Supplier is unreliable.
+105,P624,Perfect! Will buy again.
+106,P186,Mediocre at best.
+107,P965,Perfect! Will buy again.
+108,P374,"Terrible experience, defective parts!"
+109,P905,"Terrible experience, defective parts!"
+110,P760,Mediocre at best.
+111,P738,Great service and prompt delivery.
+112,P257,Perfect! Will buy again.
+113,P799,"Excellent quality, very satisfied!"
+114,P285,Supplier is unreliable.
+115,P443,Supplier is unreliable.
+116,P233,Mediocre at best.
+117,P533,Great service and prompt delivery.
+118,P623,"Terrible experience, defective parts!"
+119,P289,"Terrible experience, defective parts!"
+120,P648,Supplier is unreliable.
+121,P846,Mediocre at best.
+122,P753,Perfect! Will buy again.
+123,P219,"Terrible experience, defective parts!"
+124,P363,Perfect! Will buy again.
+125,P325,Great service and prompt delivery.
+126,P638,"Terrible experience, defective parts!"
+127,P397,"Terrible experience, defective parts!"
+128,P920,"Shipping took too long, but good quality."
+129,P708,"Terrible experience, defective parts!"
+130,P437,"Excellent quality, very satisfied!"
+131,P702,Mediocre at best.
+132,P999,Mediocre at best.
+133,P647,Perfect! Will buy again.
+134,P705,Great service and prompt delivery.
+135,P732,"Terrible experience, defective parts!"
+136,P721,"Excellent quality, very satisfied!"
+137,P647,Perfect! Will buy again.
+138,P756,"Shipping took too long, but good quality."
+139,P905,Perfect! Will buy again.
+140,P585,Perfect! Will buy again.
+141,P592,"Terrible experience, defective parts!"
+142,P329,"Shipping took too long, but good quality."
+143,P982,Perfect! Will buy again.
+144,P391,"Excellent quality, very satisfied!"
+145,P891,"Excellent quality, very satisfied!"
+146,P233,Mediocre at best.
+147,P938,"Shipping took too long, but good quality."
+148,P338,"Shipping took too long, but good quality."
+149,P111,Mediocre at best.
+150,P112,Perfect! Will buy again.
+151,P822,"Shipping took too long, but good quality."
+152,P416,"Excellent quality, very satisfied!"
+153,P806,"Excellent quality, very satisfied!"
+154,P918,"Terrible experience, defective parts!"
+155,P167,"Shipping took too long, but good quality."
+156,P916,Perfect! Will buy again.
+157,P490,Mediocre at best.
+158,P337,Mediocre at best.
+159,P488,Perfect! Will buy again.
+160,P958,Great service and prompt delivery.
+161,P936,Supplier is unreliable.
+162,P964,"Terrible experience, defective parts!"
+163,P656,Mediocre at best.
+164,P665,"Shipping took too long, but good quality."
+165,P527,"Terrible experience, defective parts!"
+166,P328,"Shipping took too long, but good quality."
+167,P231,Great service and prompt delivery.
+168,P963,"Excellent quality, very satisfied!"
+169,P693,"Terrible experience, defective parts!"
+170,P365,Mediocre at best.
+171,P502,"Terrible experience, defective parts!"
+172,P224,"Terrible experience, defective parts!"
+173,P502,"Terrible experience, defective parts!"
+174,P546,Supplier is unreliable.
+175,P557,"Terrible experience, defective parts!"
+176,P475,"Shipping took too long, but good quality."
+177,P971,"Excellent quality, very satisfied!"
+178,P929,Great service and prompt delivery.
+179,P883,Perfect! Will buy again.
+180,P867,"Terrible experience, defective parts!"
+181,P947,Mediocre at best.
+182,P101,"Terrible experience, defective parts!"
+183,P409,Mediocre at best.
+184,P898,"Shipping took too long, but good quality."
+185,P592,Mediocre at best.
+186,P934,Perfect! Will buy again.
+187,P880,"Excellent quality, very satisfied!"
+188,P724,Mediocre at best.
+189,P622,Mediocre at best.
+190,P885,"Excellent quality, very satisfied!"
+191,P332,Perfect! Will buy again.
+192,P731,"Terrible experience, defective parts!"
+193,P586,Mediocre at best.
+194,P917,"Excellent quality, very satisfied!"
+195,P913,"Shipping took too long, but good quality."
+196,P408,"Excellent quality, very satisfied!"
+197,P425,"Shipping took too long, but good quality."
+198,P971,Perfect! Will buy again.
+199,P724,"Terrible experience, defective parts!"
+200,P915,"Excellent quality, very satisfied!"
